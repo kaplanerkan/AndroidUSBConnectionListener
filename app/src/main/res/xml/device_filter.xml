@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Örnek: Vendor ID 1234 ve Product ID 5678 olan cihaz -->
+    <usb-device vendor-id="1921" product-id="21905" />
+    <usb-device vendor-id="1155" product-id="30016" />
+    <usb-device vendor-id="8746" product-id="1" />
+    <usb-device vendor-id="1155" product-id="30016" />
+    <usb-device vendor-id="13421" product-id="22136" />
+
+</resources>
